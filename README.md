@@ -9,6 +9,6 @@ It supports notifications via email, mobile, and the platform's popup window.
 ![Price Line Alert with some examplelines on this MT5 chart](https://github.com/EarnForex/Price-Line-Alert/blob/main/price-line-alert-examples.png)
 
 A detailed description of the indicator can be found here:
-https://www.earnforex.com/metatrader-indicators/price-line-alert/
+https://www.earnforex.com/indicators/price-line-alert/
 
 Any contributions to the code are welcome!
